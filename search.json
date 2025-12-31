@@ -1,5 +1,39 @@
 [
   {
+    "objectID": "chosen/season2.html",
+    "href": "chosen/season2.html",
+    "title": "Chosen Season 2",
+    "section": "",
+    "text": "This is a chosen",
+    "crumbs": [
+      "Chosen",
+      "Season 2"
+    ]
+  },
+  {
+    "objectID": "chosen/season1/s1e1-discussion.html",
+    "href": "chosen/season1/s1e1-discussion.html",
+    "title": "Season 1 Episode 1",
+    "section": "",
+    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international.",
+    "crumbs": [
+      "Chosen",
+      "Season 1",
+      "Season 1 Episode 1"
+    ]
+  },
+  {
+    "objectID": "chosen/index.html",
+    "href": "chosen/index.html",
+    "title": "The Chosen",
+    "section": "",
+    "text": "This is intro page for The Chosen",
+    "crumbs": [
+      "Chosen",
+      "The Chosen"
+    ]
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -12,5 +46,28 @@
     "title": "LIFE International",
     "section": "",
     "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international."
+  },
+  {
+    "objectID": "chosen/season1.html",
+    "href": "chosen/season1.html",
+    "title": "Chosen Season 1",
+    "section": "",
+    "text": "This is a chosen",
+    "crumbs": [
+      "Chosen",
+      "Season 1"
+    ]
+  },
+  {
+    "objectID": "chosen/season2/s2e1-discussion.html",
+    "href": "chosen/season2/s2e1-discussion.html",
+    "title": "Season 2 Episode 1",
+    "section": "",
+    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international.",
+    "crumbs": [
+      "Chosen",
+      "Season 2",
+      "Season 2 Episode 1"
+    ]
   }
 ]
