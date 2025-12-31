@@ -1,16 +1,5 @@
 [
   {
-    "objectID": "chosen/season2.html",
-    "href": "chosen/season2.html",
-    "title": "Chosen Season 2",
-    "section": "",
-    "text": "This is a chosen",
-    "crumbs": [
-      "Chosen",
-      "Season 2"
-    ]
-  },
-  {
     "objectID": "chosen/season1/s1e1-discussion.html",
     "href": "chosen/season1/s1e1-discussion.html",
     "title": "Season 1 Episode 1",
@@ -23,29 +12,16 @@
     ]
   },
   {
-    "objectID": "chosen/index.html",
-    "href": "chosen/index.html",
-    "title": "The Chosen",
+    "objectID": "chosen/season2/s2e1-discussion.html",
+    "href": "chosen/season2/s2e1-discussion.html",
+    "title": "Season 2 Episode 1",
     "section": "",
-    "text": "This is intro page for The Chosen",
+    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international.",
     "crumbs": [
       "Chosen",
-      "The Chosen"
+      "Season 2",
+      "Season 2 Episode 1"
     ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LIFE International",
-    "section": "",
-    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international."
   },
   {
     "objectID": "chosen/season1.html",
@@ -59,15 +35,39 @@
     ]
   },
   {
-    "objectID": "chosen/season2/s2e1-discussion.html",
-    "href": "chosen/season2/s2e1-discussion.html",
-    "title": "Season 2 Episode 1",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LIFE International",
     "section": "",
-    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international.",
+    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "chosen/index.html",
+    "href": "chosen/index.html",
+    "title": "The Chosen",
+    "section": "",
+    "text": "This is intro page for The Chosen",
     "crumbs": [
       "Chosen",
-      "Season 2",
-      "Season 2 Episode 1"
+      "The Chosen"
+    ]
+  },
+  {
+    "objectID": "chosen/season2.html",
+    "href": "chosen/season2.html",
+    "title": "Chosen Season 2",
+    "section": "",
+    "text": "This is a chosen",
+    "crumbs": [
+      "Chosen",
+      "Season 2"
     ]
   }
 ]
