@@ -1,11 +1,7 @@
 ---
-title: "lifeint-website"
+title: "LIFE International"
 ---
 
-This is a Quarto website.
+This is a Quarto website of LIFE International.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+To learn more about LIFE visit <https://www.vasterkyrkan.nu/international>.
