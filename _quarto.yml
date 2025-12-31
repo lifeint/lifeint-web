@@ -5,12 +5,25 @@ execute:
   freeze: auto
 
 website:
-  title: "lifeint-website"
+  title: "LIFE International"
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
+      - text: "Chosen"
+        href: chosen/index.qmd
       - about.qmd
+  sidebar: 
+    - title: "Chosen"
+      style: "docked"
+      contents: 
+        - chosen/index.qmd
+        - section: "Season 1"
+          href: chosen/season1.qmd
+          contents: chosen/season1/* 
+        - section: "Season 2"
+          href: chosen/season2.qmd
+          contents: chosen/season2/* 
 
 format:
   html:
