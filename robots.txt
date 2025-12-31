@@ -1,1 +1,1 @@
-Sitemap: https://lifeint.github.io/lifeint-web/sitemap.xml
+Sitemap: https://lifeint.online/sitemap.xml
