@@ -1,45 +1,280 @@
 [
   {
-    "objectID": "chosen/season1/s1e1-discussion.html",
-    "href": "chosen/season1/s1e1-discussion.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "Welcome to\n\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international."
+  },
+  {
+    "objectID": "thechosen/season2.html",
+    "href": "thechosen/season2.html",
+    "title": "Season 2",
+    "section": "",
+    "text": "Welcome to the second season of The Chosen",
+    "crumbs": [
+      "The Chosen",
+      "Season 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season2.html#episodes",
+    "href": "thechosen/season2.html#episodes",
+    "title": "Season 2",
+    "section": "Episodes",
+    "text": "Episodes\n\nThunder\nI saw you\nMatthew 4:24\nThe perfect opportunitiy\nSpirit\nUnlawful\nReckoning\nBeyond mountains",
+    "crumbs": [
+      "The Chosen",
+      "Season 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e2-discussion.html",
+    "href": "thechosen/season1/s1e2-discussion.html",
+    "title": "Season 1 Episode 2",
+    "section": "",
+    "text": "Exodus 20:8-11\n\n\n\n8 “Remember the Sabbath day, to keep it holy. 9 Six days you shall labor, and do all your work, 10 but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. 11 For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy. Read on",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e2-discussion.html#scripture",
+    "href": "thechosen/season1/s1e2-discussion.html#scripture",
+    "title": "Season 1 Episode 2",
+    "section": "",
+    "text": "Exodus 20:8-11\n\n\n\n8 “Remember the Sabbath day, to keep it holy. 9 Six days you shall labor, and do all your work, 10 but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. 11 For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy. Read on",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e2-discussion.html#main-characters",
+    "href": "thechosen/season1/s1e2-discussion.html#main-characters",
+    "title": "Season 1 Episode 2",
+    "section": "Main characters",
+    "text": "Main characters\n\nQuintus the Praetor of Capernaum\nGaius the Primi\nNicodemus, Matthew, Mary Magdalene, Simon, Andrew\nJames and John, the fishermen",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e2-discussion.html#did-you-know",
+    "href": "thechosen/season1/s1e2-discussion.html#did-you-know",
+    "title": "Season 1 Episode 2",
+    "section": "Did you know?",
+    "text": "Did you know?",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e2-discussion.html#discussion",
+    "href": "thechosen/season1/s1e2-discussion.html#discussion",
+    "title": "Season 1 Episode 2",
+    "section": "Discussion",
+    "text": "Discussion",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e2-discussion.html#reflection",
+    "href": "thechosen/season1/s1e2-discussion.html#reflection",
+    "title": "Season 1 Episode 2",
+    "section": "Reflection",
+    "text": "Reflection",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 2"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1.html",
+    "href": "thechosen/season1.html",
+    "title": "Season 1",
+    "section": "",
+    "text": "Welcome to the first season of The Chosen",
+    "crumbs": [
+      "The Chosen",
+      "Season 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1.html#episodes",
+    "href": "thechosen/season1.html#episodes",
+    "title": "Season 1",
+    "section": "Episodes",
+    "text": "Episodes\n\nI have called you by name\nShabbat\nJesus Loves the little children\nThe rock on which it is built\nThe wedding gift\nIndescribable compassion\nInvitations\nI am He",
+    "crumbs": [
+      "The Chosen",
+      "Season 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/index.html",
+    "href": "thechosen/index.html",
+    "title": "The Chosen",
+    "section": "",
+    "text": "This is intro page for The Chosen",
+    "crumbs": [
+      "The Chosen"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e1-discussion.html",
+    "href": "thechosen/season1/s1e1-discussion.html",
     "title": "Season 1 Episode 1",
     "section": "",
-    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international.",
+    "text": "Isaiah 43:1\n\n\n\n1 But now thus says the Lord,\nhe who created you, O Jacob,\nhe who formed you, O Israel:\n“Fear not, for I have redeemed you;\nI have called you by name, you are mine.\n2 When you pass through the waters, I will be with you;\nand through the rivers, they shall not overwhelm you;\nwhen you walk through fire you shall not be burned,\nand the flame shall not consume you.\n3 For I am the Lord your God,\nthe Holy One of Israel, your Savior.”\nRead on",
     "crumbs": [
-      "Chosen",
+      "The Chosen",
       "Season 1",
       "Season 1 Episode 1"
     ]
   },
   {
-    "objectID": "chosen/season2/s2e1-discussion.html",
-    "href": "chosen/season2/s2e1-discussion.html",
+    "objectID": "thechosen/season1/s1e1-discussion.html#scripture",
+    "href": "thechosen/season1/s1e1-discussion.html#scripture",
+    "title": "Season 1 Episode 1",
+    "section": "",
+    "text": "Isaiah 43:1\n\n\n\n1 But now thus says the Lord,\nhe who created you, O Jacob,\nhe who formed you, O Israel:\n“Fear not, for I have redeemed you;\nI have called you by name, you are mine.\n2 When you pass through the waters, I will be with you;\nand through the rivers, they shall not overwhelm you;\nwhen you walk through fire you shall not be burned,\nand the flame shall not consume you.\n3 For I am the Lord your God,\nthe Holy One of Israel, your Savior.”\nRead on",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e1-discussion.html#main-characters",
+    "href": "thechosen/season1/s1e1-discussion.html#main-characters",
+    "title": "Season 1 Episode 1",
+    "section": "Main characters",
+    "text": "Main characters\n\nMary of Magdala (aka “Lilith”), a woman possessed by 7 demons\nNicodemus the Pharisee, the teacher of teachers\nMatthew, the tax collector\nSimon and Andrew, the fishermen",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e1-discussion.html#did-you-know",
+    "href": "thechosen/season1/s1e1-discussion.html#did-you-know",
+    "title": "Season 1 Episode 1",
+    "section": "Did you know?",
+    "text": "Did you know?\n\nAdonai is a Hebrew word meaning “Lord.” Jewish tradition uses this term to refer to God instead of speaking His revealed name, Yahweh (written in Hebrew as YHWH). To avoid “taking the Lord’s name in vain,” Jews developed the practice of saying Adonai rather than pronouncing the sacred name. In many Bible translations, you’ll notice that LORD appears in all capital letters in the Old Testament. This signals that the original Hebrew word is Yahweh.",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e1-discussion.html#discussion",
+    "href": "thechosen/season1/s1e1-discussion.html#discussion",
+    "title": "Season 1 Episode 1",
+    "section": "Discussion",
+    "text": "Discussion\n\nAs you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?\nMary Magdalene and Nicodemus seem to stand at opposite ends of the spiritual spectrum: one feeling broken and unworthy, the other dignified and secure in his religious standing. Which one do you find easier to relate to? If you could speak to each of them, what would you say?\nNicodemus is knowledgeable, respected, and powerful, yet utterly helpless in the face of Mary Magdalene’s suffering. What stood out to you about his reaction in that scene?\nIn his moment of reflection Nicodemus tells his wife, Zohara:\n\n\n“Sometimes I wonder if what we can know of Adonai and the Law is just as blurred. What if we’re not seeing the whole picture? What if it’s more beautiful and — and more strange — than we can ever imagine?”\n\n        How did you understand this? What do you think Nicodemus is struggling to put into words here?\n\nIn this episode, Jesus appears at a very specific moment. How did the timing of His entrance strike you? What do you think the filmmakers are suggesting about His awareness, purpose, and intentionality?\nSome characters in this episode appear trapped by their circumstances. How do you see them responding to that sense of being stuck? Why do you think asking for help might be difficult for them?\nWhat does “calling by name” mean to you?",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season1/s1e1-discussion.html#reflection",
+    "href": "thechosen/season1/s1e1-discussion.html#reflection",
+    "title": "Season 1 Episode 1",
+    "section": "Reflection",
+    "text": "Reflection\n\nWhat part of your life do you feel you most need to be rescued from?\nCan you relate to Nicodemus’ sense that the world might be more mysterious and surprising than it seems? How do you respond when you feel that way?\n“Integrity is doing the right thing even when no one is looking.” How does this idea sit with you when you consider that God knows your heart completely (Psalms 139:13-18)?",
+    "crumbs": [
+      "The Chosen",
+      "Season 1",
+      "Season 1 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season2/s2e1-discussion.html",
+    "href": "thechosen/season2/s2e1-discussion.html",
     "title": "Season 2 Episode 1",
     "section": "",
-    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international.",
+    "text": "TEXT\n\n\n\nRead on",
     "crumbs": [
-      "Chosen",
+      "The Chosen",
       "Season 2",
       "Season 2 Episode 1"
     ]
   },
   {
-    "objectID": "chosen/season1.html",
-    "href": "chosen/season1.html",
-    "title": "Chosen Season 1",
+    "objectID": "thechosen/season2/s2e1-discussion.html#scripture",
+    "href": "thechosen/season2/s2e1-discussion.html#scripture",
+    "title": "Season 2 Episode 1",
     "section": "",
-    "text": "This is a chosen",
+    "text": "TEXT\n\n\n\nRead on",
     "crumbs": [
-      "Chosen",
-      "Season 1"
+      "The Chosen",
+      "Season 2",
+      "Season 2 Episode 1"
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LIFE International",
-    "section": "",
-    "text": "This is a Quarto website of LIFE International.\nTo learn more about LIFE visit https://www.vasterkyrkan.nu/international."
+    "objectID": "thechosen/season2/s2e1-discussion.html#main-characters",
+    "href": "thechosen/season2/s2e1-discussion.html#main-characters",
+    "title": "Season 2 Episode 1",
+    "section": "Main characters",
+    "text": "Main characters",
+    "crumbs": [
+      "The Chosen",
+      "Season 2",
+      "Season 2 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season2/s2e1-discussion.html#did-you-know",
+    "href": "thechosen/season2/s2e1-discussion.html#did-you-know",
+    "title": "Season 2 Episode 1",
+    "section": "Did you know?",
+    "text": "Did you know?",
+    "crumbs": [
+      "The Chosen",
+      "Season 2",
+      "Season 2 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season2/s2e1-discussion.html#discussion",
+    "href": "thechosen/season2/s2e1-discussion.html#discussion",
+    "title": "Season 2 Episode 1",
+    "section": "Discussion",
+    "text": "Discussion",
+    "crumbs": [
+      "The Chosen",
+      "Season 2",
+      "Season 2 Episode 1"
+    ]
+  },
+  {
+    "objectID": "thechosen/season2/s2e1-discussion.html#reflection",
+    "href": "thechosen/season2/s2e1-discussion.html#reflection",
+    "title": "Season 2 Episode 1",
+    "section": "Reflection",
+    "text": "Reflection",
+    "crumbs": [
+      "The Chosen",
+      "Season 2",
+      "Season 2 Episode 1"
+    ]
   },
   {
     "objectID": "about.html",
@@ -47,27 +282,5 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "chosen/index.html",
-    "href": "chosen/index.html",
-    "title": "The Chosen",
-    "section": "",
-    "text": "This is intro page for The Chosen",
-    "crumbs": [
-      "Chosen",
-      "The Chosen"
-    ]
-  },
-  {
-    "objectID": "chosen/season2.html",
-    "href": "chosen/season2.html",
-    "title": "Chosen Season 2",
-    "section": "",
-    "text": "This is a chosen",
-    "crumbs": [
-      "Chosen",
-      "Season 2"
-    ]
   }
 ]
