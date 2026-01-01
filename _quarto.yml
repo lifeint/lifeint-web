@@ -5,32 +5,35 @@ execute:
   freeze: auto
 
 website:
-  title: "LIFE International"
+  site-url: https://lifeint.online
+  repo-url: https://github.com/lifeint/lifeint-web
   navbar:
+    logo: img/LIFE_logo_white_recreated.png
+    logo-alt: "LIFE logo."
+    title: false
+    collapse-below: lg
     left:
       - href: index.qmd
         text: "Home"
-      - text: "Chosen"
-        href: chosen/index.qmd
+      - text: "The Chosen"
+        href: thechosen/index.qmd
       - about.qmd
   sidebar: 
-    - title: "Chosen"
+    - title: "The Chosen"
       style: "docked"
       contents: 
-        - chosen/index.qmd
+        - thechosen/index.qmd
         - section: "Season 1"
-          href: chosen/season1.qmd
-          contents: chosen/season1/* 
+          href: thechosen/season1.qmd
+          contents: thechosen/season1/* 
         - section: "Season 2"
-          href: chosen/season2.qmd
-          contents: chosen/season2/* 
+          href: thechosen/season2.qmd
+          contents: thechosen/season2/* 
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      - sandstone
     toc: true
 
 
