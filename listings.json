@@ -11,5 +11,12 @@
       "/thechosen/season1/s1e2-discussion.html",
       "/thechosen/season1/s1e1-discussion.html"
     ]
+  },
+  {
+    "listing": "/thechosen/index.html",
+    "items": [
+      "/thechosen/season1.html",
+      "/thechosen/season2.html"
+    ]
   }
 ]
