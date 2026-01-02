@@ -1,9 +1,9 @@
 ---
-title: "Season 2 Episode 1"
+title: "Episode 1"
 subtitle: "Thunder"
 ---
 
-## Scripture
+## Scripture  {#sec-scripture}
 
 :::{.callout-note}
 ### [TEXT]()
@@ -11,12 +11,19 @@ subtitle: "Thunder"
 [Read on]()
 :::
 
+## Watch
+
 ## Main characters
 
+- Jesus
 - 
+
+## Memorable quotes
 
 ## Did you know?
 
 ## Discussion
 
 ## Reflection
+
+## Further reading {#sec-reading}
