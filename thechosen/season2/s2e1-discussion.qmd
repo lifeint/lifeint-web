@@ -8,19 +8,25 @@ subtitle: "Thunder"
 :::{.callout-note}
 ### [TEXT]()
 
-[Read on]()
 :::
 
-## Watch
+[Download Bible App Here](https://www.bible.com/app)
 
 ## Main characters
 
 - Jesus
 - 
 
+:::{.callout-warning}
+### THE CHOSEN TV
+Watch the [Episode X]()
+:::
+
 ## Memorable quotes
 
-## Did you know?
+:::{.callout-tip}
+tips
+:::
 
 ## Discussion
 

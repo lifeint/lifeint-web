@@ -9,10 +9,10 @@ categories:
   - discussion
 ---
 
-## Scripture
+## Scripture {#sec-scripture}
 
 :::{.callout-note}
-### [Isaiah 43:1](https://www.bible.com/bible/59/ISA.43.1-3)
+### [Isaiah 43:1-3](https://www.bible.com/bible/59/ISA.43.1-3)
 
 | ^1^ But now thus says the Lord,
 | he who created you, O Jacob,
@@ -26,12 +26,9 @@ categories:
 | ^3^ For I am the Lord your God,
 | the Holy One of Israel, your Savior."
 
-[Read on](https://www.bible.com/bible/59/ISA.43.ESV)
 :::
 
-## Watch
-
-Watch the [Episode 1](https://watch.thechosen.tv/video/184683594334)
+[Download Bible App Here](https://www.bible.com/app)
 
 ## Main characters
 
@@ -40,13 +37,18 @@ Watch the [Episode 1](https://watch.thechosen.tv/video/184683594334)
 - **Matthew**, the tax collector
 - **Simon** and **Andrew**, the fishermen
 
+:::{.callout-warning}
+### THE CHOSEN TV
+Watch the [Episode 1](https://watch.thechosen.tv/video/184683594334)
+:::
+
 ## Memorable quotes
 
 > “Sometimes I wonder if what we can know of Adonai and the Law is just as blurred. What if we're not seeing the whole picture? What if it’s more beautiful and — and more strange — than we can ever imagine?” -- Nicodemus
 
-## Did you know?
-
+:::{.callout-tip}
 **_Adonai_** is a Hebrew word meaning “Lord.” Jewish tradition uses this term to refer to God instead of speaking His revealed name, **Yahweh** (written in Hebrew as YHWH). To avoid “taking the Lord’s name in vain,” Jews developed the practice of saying *Adonai* rather than pronouncing the sacred name. In many Bible translations, you’ll notice that **LORD** appears in all capital letters in the Old Testament. This signals that the original Hebrew word is **Yahweh**.
+:::
 
 ## Discussion
 
