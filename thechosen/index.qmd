@@ -1,5 +1,10 @@
 ---
 title: "The Chosen"
+listing:
+  contents: season*.qmd
+  sort: "date desc"
+  type: default
+  categories: false
 ---
 
-This is intro page for [The Chosen](https://watch.thechosen.tv) 
+You can watch The Chosen [here](https://watch.thechosen.tv).
