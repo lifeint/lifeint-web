@@ -1,16 +1,10 @@
 ---
 title: "Season 1"
+listing:
+  contents: season1
+  sort: "date desc"
+  type: default
+  categories: true
 ---
 
 Welcome to the first season of The Chosen 
-
-## Episodes
-
-1. [I have called you by name](season1/s1e1-discussion.qmd)
-2. [Shabbat](season1/s1e2-discussion.qmd)
-3. Jesus Loves the little children
-4. The rock on which it is built
-5. The wedding gift
-6. Indescribable compassion
-7. Invitations
-8. I am He
