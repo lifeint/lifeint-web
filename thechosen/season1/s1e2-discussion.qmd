@@ -9,7 +9,7 @@ categories:
   - discussion
 ---
 
-## Scripture {#sec-scripture}
+## :book: Scripture {#sec-scripture}
 
 :::{.callout-note}
 ### [Genesis 2:1-3](https://www.bible.com/bible/59/GEN.2.1-3)
@@ -28,19 +28,18 @@ categories:
 
 [Download Bible App Here](https://www.bible.com/app)
 
-## Main characters
+## :performing_arts: Main characters {#sec-characters}
 
 - **Quintus** the Praetor of Capernaum (aka "dominus," i.e. "lord" or "master")
 - **Gaius** the centurion ("Primi Ordine")
 - **Nicodemus**, **Matthew**, **Mary Magdalene**, **Simon**, **Andrew**
 - **James** and **John**, the fishermen
 
-:::{.callout-warning}
-### THE CHOSEN TV
-Watch the [Episode 2](https://watch.thechosen.tv/video/184683594335)
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 2](https://watch.thechosen.tv/video/184683594335)
 :::
 
-## Memorable quotes
+## :speech_balloon: Quotes {#sec-quotes}
 
 > "Are you saying I made a bad deal?" -- Quintus
 
@@ -54,7 +53,8 @@ Watch the [Episode 2](https://watch.thechosen.tv/video/184683594335)
 
 :::
 
-## Discussion
+## :handshake: Discussion {#sec-discussion}
+
 1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
 2. Read [Genesis 2:1-3](#sec-scripture) again. Why do you think an all-powerful God chose to rest on the seventh day? What does this tell us about the purpose and meaning of Shabbat?
 3. What stood out to you about the traditional Shabbat observance shown in the episode — from [Eshet Chayil](#sec-reading) through the prayers Mary recites? What did these practices communicate to you about Shabbat?
@@ -63,13 +63,14 @@ Watch the [Episode 2](https://watch.thechosen.tv/video/184683594335)
 6. Matthew says his father told him he has no son. How did you experience Matthew’s Shabbat meal — alone, with only his dog? What do you imagine life feels like for Matthew, one of the richest men in Capernaum?
 7. How did you respond to the Gandalf-like appearance of Jesus, when He unexpectedly invites his disciples and Himself into Mary’s Shabbat observance? What does this moment suggest about welcoming strangers and opening our homes, and lives, to interruption?
 
-## Reflection
+## :thought_balloon: Food for thought {#sec-thought}
+
 1. Modern rest is often about recovery or escape, while Shabbat was commanded as a rhythm of reflection and reorientation. What does this tell you about how God shapes human attention, freedom, and priorities?
 2. The seventh day was set apart to celebrate God completing His work. What kinds of practices honor the day of God’s rest, and what kinds undermine it? What, as Nicodemus puts it, “suppresses our worship now”?
 3. During the Passover Seder, a place is intentionally left open for Elijah, with a moment set aside to open the door in expectation of his arrival. How does this tradition challenge the way you think about hospitality and those you consider “strangers”?
 
 
-## Further reading {#sec-reading}
+## :bookmark_tabs: Further reading {#sec-reading}
 
 - A woman of valor ([Eshet Chayil](https://jwa.org/node/23712)): [Proverbs 31:10-31](https://www.bible.com/bible/59/PRO.31.10-31.ESV)
 - Shabbat and true worship: [1 Samuel 15:10–23](https://www.bible.com/bible/59/1SA.15.10-23.ESV); [Isaiah 1:9–20](https://www.bible.com/bible/59/ISA.1.9-20.ESV); [Jeremiah 7:21–28](https://www.bible.com/bible/59/JER.7.21-28.ESV); [Amos 4:1–13](https://www.bible.com/bible/59/AMO.4.1-13.ESV); [Isaiah 56:1–8](https://www.bible.com/bible/59/ISA.56.1-8.ESV)

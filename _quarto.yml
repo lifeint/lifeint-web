@@ -35,6 +35,7 @@ format:
     theme:
       - sandstone
     toc: true
+    from: markdown+emoji
 
 
 

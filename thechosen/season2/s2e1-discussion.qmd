@@ -3,7 +3,7 @@ title: "Episode 1"
 subtitle: "Thunder"
 ---
 
-## Scripture  {#sec-scripture}
+## :book: Scripture {#sec-scripture}
 
 :::{.callout-note}
 ### [TEXT]()
@@ -12,24 +12,23 @@ subtitle: "Thunder"
 
 [Download Bible App Here](https://www.bible.com/app)
 
-## Main characters
+## :performing_arts: Main characters {#sec-characters}
 
 - Jesus
 - 
 
-:::{.callout-warning}
-### THE CHOSEN TV
-Watch the [Episode X]()
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode X]()
 :::
 
-## Memorable quotes
+## :speech_balloon: Quotes {#sec-quotes}
 
 :::{.callout-tip}
 tips
 :::
 
-## Discussion
+## :handshake: Discussion {#sec-discussion}
 
-## Reflection
+## :thought_balloon: Food for thought {#sec-thought}
 
-## Further reading {#sec-reading}
+## :bookmark_tabs: Further reading {#sec-reading}
