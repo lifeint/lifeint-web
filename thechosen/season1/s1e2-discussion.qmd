@@ -18,7 +18,7 @@ categories:
 
 :::{.callout-note}
 ### [Exodus 20:8-11](https://www.bible.com/bible/59/EXO.20.8-11)
-^8^ “Remember the Sabbath day, to keep it holy. ^9^ Six days you shall labor, and do all your work, ^10^ but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. ^11^ For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.
+^8^ Remember the Sabbath day, to keep it holy. ^9^ Six days you shall labor, and do all your work, ^10^ but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates. ^11^ For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.
 :::
 
 :::{.callout-note}
@@ -30,7 +30,7 @@ categories:
 
 ## :performing_arts: Main characters {#sec-characters}
 
-- **Quintus** the Praetor of Capernaum (aka "dominus," i.e. "lord" or "master")
+- **Quintus** the Praetor of Capernaum (aka "dominus", i.e. "lord" or "master")
 - **Gaius** the centurion ("Primi Ordine")
 - **Nicodemus**, **Matthew**, **Mary Magdalene**, **Simon**, **Andrew**
 - **James** and **John**, the fishermen
