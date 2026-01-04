@@ -12,6 +12,11 @@ categories:
 ## :book: Scripture {#sec-scripture}
 
 :::{.callout-note}
+### [Proverbs 30:4](https://www.bible.com/bible/59/PRO.30.4)
+^4^ Who has ascended to heaven and come down? Who has gathered the wind in his fists? Who has wrapped up the waters in a garment? Who has established all the ends of the earth? What is his name, and what is his son’s name? Surely you know!
+:::
+
+:::{.callout-note}
 ### [John 2:1-11](https://www.bible.com/bible/59/JHN.2.1-11)
 ^1^ On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. ^2^ Jesus also was invited to the wedding with his disciples. ^3^ When the wine ran out, the mother of Jesus said to him, “They have no wine.” ^4^ And Jesus said to her, “Woman, what does this have to do with me? My hour has not yet come.” ^5^ His mother said to the servants, “Do whatever he tells you.” ^6^ Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. ^7^ Jesus said to the servants, “Fill the jars with water.” And they filled them up to the brim. ^8^ And he said to them, “Now draw some out and take it to the master of the feast.” So they took it. ^9^ When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom ^10^ and said to him, “Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now.” ^11^ This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him.
 :::
