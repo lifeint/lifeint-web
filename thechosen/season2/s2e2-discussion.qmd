@@ -1,0 +1,61 @@
+---
+title: "Episode 2"
+subtitle: "I saw you"
+description: ""
+date: 2026-03-11
+image: img/s2e2.jpg
+categories:
+  - season2
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Matthew 4:17](https://www.bible.com/bible/59/MAT.4.17)
+
+:::
+
+:::{.callout-note}
+### [John 1:1-5](https://www.bible.com/bible/59/JHN.1.1-5)
+
+:::
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Nathaniel**, also known as Bartholomew, the architect
+- *Philip*, the (former) disciple of John the Baptizer
+- **Jesus** and his disciples
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 2](https://watch.thechosen.tv/video/184683594354)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+> I "was" something else once, too. Once you've met the Messiah, "am" is all that matters.
+
+> 
+:::{.callout-tip}
+
+:::
+
+:::{.callout-tip}
+
+:::
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. Matthew feels out of place among disciples. He has hard time to explain how he feels, but he connects with Philip and Thaddeus. Why do you think is that?
+ 
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. 
+
+## :bookmark_tabs: Further reading {#sec-reading}
+
+- Philip and Nathaniel's story: [John 1:43-51]()
+- The Ezekiel prophecy: [Ezekiel 39:9-10a](https://www.bible.com/bible/59/EZK.39.9-10)
+
+
