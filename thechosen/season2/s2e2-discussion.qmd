@@ -1,8 +1,8 @@
 ---
 title: "Episode 2"
 subtitle: "I saw you"
-description: "I saw you...under the fig tree.."
-date: 2026-03-11
+description: "...under the fig tree.."
+date: 2026-03-18
 image: img/s2e2.jpg
 categories:
   - season2

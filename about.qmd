@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About LIFE"
 ---
 
-About this site
+LIFE (**L**und **I**nternational **Fe**llowship) is the English-speaking Christian fellowship of [Västerkyrkan](https://www.vasterkyrkan.nu/) in Lund, Sweden.
 
-```{r}
-1 + 1
-```
+This website provides general information about LIFE, along with discussion materials for small groups following [The Chosen](https://thechosen.tv) series.
+
+You can find us at 📍:round_pushpin: [Byggmästaregatan 21](https://share.google/RIPZ0gVqJDdsU9Og8). For service times and additional details, please see the [frontpage](index.qmd).
