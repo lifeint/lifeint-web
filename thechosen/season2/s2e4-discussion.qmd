@@ -1,0 +1,111 @@
+---
+title: "Episode 4"
+subtitle: "The Perfect Opportunitiy"
+description: "Sometimes you gotta stir up the water."
+date: 2026-04-01
+image: img/s2e4.jpg
+categories:
+  - season2
+  - discussion
+---
+
+## :book: Scripture {#sec-scripture}
+
+:::{.callout-note}
+### [Zephaniah 3:15-20](https://www.bible.com/bible/59/ZEP.3.15-20)
+| ^15^ The Lord has taken away the judgments against you;
+| he has cleared away your enemies.
+| The King of Israel, the Lord, is in your midst;
+| you shall never again fear evil.
+| ^16^ On that day it shall be said to Jerusalem:
+| “Fear not, O Zion;
+| let not your hands grow weak.
+| ^17^ The Lord your God is in your midst,
+| a mighty one who will save;
+| he will rejoice over you with gladness;
+| he will quiet you by his love;
+| he will exult over you with loud singing.
+| ^18^ I will gather those of you who mourn for the festival,
+| so that you will no longer suffer reproach.
+| ^19^ Behold, at that time I will deal
+| with all your oppressors.
+| And I will save the lame
+| and gather the outcast,
+| and I will change their shame into praise
+| and renown in all the earth.
+| ^20^ At that time I will bring you in,
+| at the time when I gather you together;
+| for I will make you renowned and praised
+| among all the peoples of the earth,
+| when I restore your fortunes
+| before your eyes,” says the Lord.
+:::
+
+
+[Download Bible App Here](https://www.bible.com/app)
+
+## :performing_arts: Main characters {#sec-characters}
+
+- **Jesse**, the paralyzed man
+- **Simon, the Zealot**, younger brother of Jessie
+- **Atticus Aemilius**, cohorte urbanae.
+- **Jesus** and his disciples
+- **Shmuel**, **Yanni**, the Pharisees
+
+:::{.callout-warning appearance="simple" icon=false}
+:movie_camera: Watch the [Episode 4](https://watch.thechosen.tv/video/184683594356)
+:::
+
+## :speech_balloon: Quotes {#sec-quotes}
+
+> Everyone has wandered through the wilderness at some point.
+
+
+:::{.callout-tip}
+**Zealots** were a Jewish movement in the first century that sought freedom from Roman rule and envisioned Israel governed by God alone. Fueled by intense devotion to Jewish identity and, at times, messianic expectations, Zealots embraced violent resistance against the Romans and against fellow Jews seen as collaborators. Their actions played a significant role in the First Jewish–Roman War (66–70 CE), which ended with the destruction of Jerusalem and the tragic siege of Masada. See more in [Wikipedia](https://en.wikipedia.org/wiki/Zealots)
+:::
+
+:::{.callout-tip}
+**Feast of Tabernacles**, also known as Sukkot or the Feast of Booths, is a Torah-commanded Jewish festival that celebrates the autumn harvest and commemorates Israel’s journey out of Egypt. It is observed for seven days beginning on the 15th of Tishrei. Sukkot is one of the Three Pilgrimage Festivals, during which Israelites were commanded to travel to Jerusalem to worship at the Temple. See more in [Wikipedia](https://en.wikipedia.org/wiki/Sukkot)
+:::
+
+
+:::{.callout-tip}
+**Cohortes urbanae** (Urban Cohorts) were elite Roman military units established by Augustus to serve as a police force and security detail for the city of Rome and later other key cities, maintaining public order, controlling crowds, and handling crime, distinct from but serving alongside the Praetorian Guard, led by the Urban Prefect, and recruited from Italian citizens. They provided emperors with vital urban control and could be deployed for military campaigns, acting as a crucial internal security force. See more in [Wikipedia](https://en.wikipedia.org/wiki/Cohortes_urbanae)
+:::
+
+:::{.callout-tip}
+A **mikveh** (or *mikvah*) is a Jewish ritual bath used for spiritual purification, requiring immersion in a pool of natural or "living" water (rain, spring, ocean) mixed with tap water, for purposes like converting to Judaism, preparing for marriage, observing niddah (menstrual purity laws), marking life transitions, or making new utensils kosher. 
+:::
+
+:::{.callout-tip}
+Two Jewish prayers appear in this episode:
+
+- Birkat HaGomel (For surviving life-threatening situations): "Blessed are You, LORD our God, King of the Universe, who bestows good things upon the unworthy, and has bestowed upon me every goodness."
+- Ha'tov ve'hametiv (For good news and positive experiences): "Blessed are You, Lord, our God, King of the Universe, who is good and does good"
+:::
+
+## :handshake: Discussion {#sec-discussion}
+1. As you watched this episode, which characters or moments stood out to you the most, and why? What was it about those scenes or people that captured your attention?
+2. Zekhariah "things will have to change for that to happen". What has changed since that time? Does it look equally implausible now?
+3. What do you think it would have been like to be a person who waited around pools like Bethesda in hopes of having a sickness or disability healed? What emotions do you imagine you'd feel?
+4. In this story, Jesus sees the invalid lying by the pool of Bethesda and asks him, "Do you want to be healed?" How would you react if someone asked you that question after you'd been disabled for almost 40 years?
+5. Why do you think Jesus asked him that question? What do you think he meant by it?
+6. Notice that the man doesn't reply directly to Jesus' question. Instead of saying he does or doesn't want to be well, he explains why he thinks he can't get well - he doesn't have anyone to put him in the pool when it is stirred up. Jesus then simply tells him to get up and walk and he's healed. What do you think we're supposed to conclude?
+7. What has Simon the Zealot put his hope in to bring salvation? What has Jesse the Invalid put his hope in to bring salvation? How do the hopes of Simon and Jesse turn out?
+8. Jesse initially hopes that the Pool of Bethesda will save him from his injury but ends up disappointed. In the place of the pool, what does he discover is a much better hope?
+
+## :thought_balloon: Food for thought {#sec-thought}
+1. 
+
+
+## :bookmark_tabs: Further reading {#sec-reading}
+- [Exodus 22:20](https://www.bible.com/bible/59/EXO.22.20)
+- [Zephaniah 3:15-20](https://www.bible.com/bible/59/ZEP.3.15-20)
+- [Zekhariah 14:16](https://www.bible.com/bible/59/ZEK.14.16)
+- [Ecclesiastes 3:1-8](https://www.bible.com/bible/59/ECC.3.1-8)
+- [Psalm 69:9](https://www.bible.com/bible/59/PSA.69.9)
+- Healing at the Pool of Bethesda: [John 5:1-18](https://www.bible.com/bible/59/JHN.5.1-18); 
+- Jesus, the Lord of Sabbath: [Mark 2:23-27](https://www.bible.com/bible/59/MRK.2.23-27); [Mark 3:1-6](https://www.bible.com/bible/59/MRK.3.1-6); [Matthew 12:1–21](https://www.bible.com/bible/59/MAT.12.1-21); [Luke 6:1–11](https://www.bible.com/bible/59/LUK.6.1-11)
+
+
