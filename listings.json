@@ -2,16 +2,10 @@
   {
     "listing": "/thechosen/season2.html",
     "items": [
+      "/thechosen/season2/s2e4-discussion.html",
       "/thechosen/season2/s2e3-discussion.html",
       "/thechosen/season2/s2e2-discussion.html",
       "/thechosen/season2/s2e1-discussion.html"
-    ]
-  },
-  {
-    "listing": "/thechosen/index.html",
-    "items": [
-      "/thechosen/season1.html",
-      "/thechosen/season2.html"
     ]
   },
   {
@@ -25,6 +19,13 @@
       "/thechosen/season1/s1e3-discussion.html",
       "/thechosen/season1/s1e2-discussion.html",
       "/thechosen/season1/s1e1-discussion.html"
+    ]
+  },
+  {
+    "listing": "/thechosen/index.html",
+    "items": [
+      "/thechosen/season1.html",
+      "/thechosen/season2.html"
     ]
   }
 ]
